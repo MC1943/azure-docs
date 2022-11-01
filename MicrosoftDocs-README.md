@@ -26,5 +26,5 @@ Please refer to [LICENSE](LICENSE), [LICENSE-CODE](LICENSE-CODE) and [ThirdParty
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-Message: User account [mc1943@Microsoft](mc8469170@gmail.com) is a personal Microsoft account. Personal Microsoft accounts are not supported for this application unless explicitly invited to an organization. Try signing out and signing back in with an organizational account.
+Message: User account [MC1943](.github) is a personal Microsoft account. Personal Microsoft accounts are not supported for this application unless explicitly invited to an organization. Try signing out and signing back in with an organizational account.
 If you plan on getting help for this problem, enable flagging and try to reproduce the error within 20 minutes. Flagged events make diagnostics available and are raised to admin attention
